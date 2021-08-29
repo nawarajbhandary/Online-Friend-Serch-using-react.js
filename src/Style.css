@@ -1,0 +1,35 @@
+.friend-item{
+ display: flex;
+ padding: 15px
+}
+
+.friend-item img{
+    height:80px ;
+    width: 80px;
+    border-radius: 50%;
+}
+.friend-item h1 {
+    padding: 0;
+    margin: 0;
+    font-size: 18px;
+}
+
+.friend-item p{
+    padding: 0;
+    margin: 0;
+    margin-top: 10 px;
+    color :gray;
+}
+
+.friend-item .right{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 15px;
+
+}
+input{
+    
+    margin-left: 15px;
+    padding: 7px;
+}
