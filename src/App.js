@@ -15,12 +15,17 @@ const friendList = [
 {
     imageUrl : "https://scontent.fktm8-1.fna.fbcdn.net/v/t39.30808-6/233367324_2821234264782458_3854471340021096011_n.jpg?_nc_cat=101&_nc_rgb565=1&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=4riJ27oNkfoAX_SlAT0&_nc_ht=scontent.fktm8-1.fna&oh=3ee198265e77c94642728243f7bd703e&oe=612E1899",
     name : "Raj Kumar Khadka",
-    title : "PHP Develepor"
+    title : "Web Develepor"
 },
 {
     imageUrl : "https://scontent.fktm8-1.fna.fbcdn.net/v/t1.6435-9/60254260_2307683819474681_1221678931673874432_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ccmet4N6XBMAX9qN6A7&_nc_ht=scontent.fktm8-1.fna&oh=be3dc9e0d22d35c0fec6711f72eb12e6&oe=614DD971",
     name : "Niraj Prasad Bhatt",
     title : "ASP .net Developer"
+},
+{
+    imageUrl : "https://scontent.fktm8-1.fna.fbcdn.net/v/t1.6435-9/60254260_2307683819474681_1221678931673874432_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ccmet4N6XBMAX9qN6A7&_nc_ht=scontent.fktm8-1.fna&oh=be3dc9e0d22d35c0fec6711f72eb12e6&oe=614DD971",
+    name : "Bishu Thapa",
+    title : "Trader & Investor"
 },
 ];
 
